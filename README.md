@@ -4,7 +4,7 @@ I'm Jenny~
 
 - I'm a self-taught Front-End developer
 - I'm a professional E-Commerce specialist
-- I love spending time on building product pages
+- I love spending time on new ways of data processing and building product pages
 
 <!--
 **c53hzn/c53hzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
